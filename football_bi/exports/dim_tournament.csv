@@ -1,0 +1,226 @@
+tournament_key,tournament,category,is_official
+1,ABCS Tournament,Régional,0
+2,AFC Asian Cup,Continental,1
+3,AFC Asian Cup qualification,Qualifications,1
+4,AFC Challenge Cup,Continental,1
+5,AFC Challenge Cup qualification,Qualifications,1
+6,AFC Solidarity Cup,Continental,1
+7,AFF Championship,Régional,1
+8,AFF Championship qualification,Qualifications,1
+9,ASEAN Championship,Régional,1
+10,ASEAN Championship qualification,Qualifications,1
+11,Afghanistan Republic Day Festival Cup,Tournoi amical,0
+12,African Cup of Nations,Continental,1
+13,African Cup of Nations qualification,Qualifications,1
+14,African Friendship Games,Multisports,0
+15,Afro-Asian Games,Multisports,0
+16,Al Ain International Cup,Tournoi amical,0
+17,All-African Games,Multisports,0
+18,Amílcar Cabral Cup,Régional,1
+19,Arab Cup,Régional,1
+20,Arab Cup qualification,Qualifications,1
+21,Asian Games,Multisports,0
+22,Atlantic Cup,Tournoi amical,0
+23,Atlantic Heritage Cup,Non-FIFA,0
+24,Australia Bicentenary Gold Cup,Tournoi amical,0
+25,Balkan Cup,Régional,1
+26,Baltic Cup,Régional,1
+27,Bangabandhu Cup,Tournoi amical,0
+28,Bangladesh President's Gold Cup,Tournoi amical,0
+29,Beijing International Friendship Tournament,Tournoi amical,0
+30,Benedikt Fontana Cup,Non-FIFA,0
+31,Bolivarian Games,Multisports,0
+32,Brazil Independence Cup,Tournoi amical,0
+33,British Home Championship,Régional,1
+34,CAFA Nations Cup,Régional,1
+35,CCCF Championship,Continental,1
+36,CECAFA Cup,Régional,1
+37,CFU Caribbean Cup,Régional,1
+38,CFU Caribbean Cup qualification,Qualifications,1
+39,CONCACAF Championship,Continental,1
+40,CONCACAF Championship qualification,Qualifications,1
+41,CONCACAF Nations League,Continental,1
+42,CONCACAF Nations League qualification,Qualifications,1
+43,CONCACAF Series,Tournoi amical,0
+44,CONIFA Africa Football Cup,Non-FIFA,0
+45,CONIFA Asia Cup,Non-FIFA,0
+46,CONIFA European Football Cup,Non-FIFA,0
+47,CONIFA South America Football Cup,Non-FIFA,0
+48,CONIFA World Cup qualification,Non-FIFA,0
+49,CONIFA World Football Cup,Non-FIFA,0
+50,CONIFA World Football Cup qualification,Non-FIFA,0
+51,CONMEBOL–UEFA Cup of Champions,Intercontinental,1
+52,COSAFA Cup,Régional,1
+53,COSAFA Cup qualification,Qualifications,1
+54,CTFA International Tournament,Tournoi amical,0
+55,Canadian Shield,Tournoi amical,0
+56,Central American and Caribbean Games,Multisports,0
+57,Central European International Cup,Régional,1
+58,China Cup,Tournoi amical,0
+59,Columbus Cup,Tournoi amical,0
+60,ConIFA Challenger Cup,Non-FIFA,0
+61,Confederations Cup,Mondial,1
+62,Copa América,Continental,1
+63,Copa América qualification,Qualifications,1
+64,Copa Artigas,Tournoi amical,0
+65,Copa Bernardo O'Higgins,Tournoi amical,0
+66,Copa Carlos Dittborn,Tournoi amical,0
+67,Copa Chevallier Boutell,Tournoi amical,0
+68,Copa Confraternidad,Tournoi amical,0
+69,Copa Félix Bogado,Tournoi amical,0
+70,Copa Juan Pinto Durán,Tournoi amical,0
+71,Copa Lipton,Tournoi amical,0
+72,Copa Newton,Tournoi amical,0
+73,Copa Oswaldo Cruz,Tournoi amical,0
+74,Copa Paz del Chaco,Tournoi amical,0
+75,Copa Premio Honor Argentino,Tournoi amical,0
+76,Copa Premio Honor Uruguayo,Tournoi amical,0
+77,Copa Ramón Castilla,Tournoi amical,0
+78,Copa Rio Branco,Tournoi amical,0
+79,Copa Roca,Tournoi amical,0
+80,Copa del Pacífico,Tournoi amical,0
+81,Corsica Cup,Non-FIFA,0
+82,Coupe de l'Outre-Mer,Non-FIFA,0
+83,Cup of Ancient Civilizations,Tournoi amical,0
+84,Cyprus International Tournament,Tournoi amical,0
+85,Dakar Tournament,Tournoi amical,0
+86,Diamond Jubilee International Football Tournament,Tournoi amical,0
+87,Dragon Cup,Tournoi amical,0
+88,Dunhill Cup,Tournoi amical,0
+89,Dynasty Cup,Régional,1
+90,EAFF Championship,Régional,1
+91,EAFF Championship qualification,Qualifications,1
+92,ELF Cup,Non-FIFA,0
+93,East Asian Games,Multisports,0
+94,FAS Tri-Nations Series,Tournoi amical,0
+95,FIFA 75th Anniversary Cup,Tournoi amical,0
+96,FIFA ASEAN Challenge Cup,Régional,1
+97,FIFA ASEAN Cup,Régional,1
+98,FIFA Series,Tournoi amical,1
+99,FIFA World Cup,Mondial,1
+100,FIFA World Cup qualification,Qualifications,1
+101,FIFI Wild Cup,Non-FIFA,0
+102,Far Eastern Championship Games,Multisports,0
+103,Four Nations Tournament,Tournoi amical,0
+104,Four Nations' Cup,Tournoi amical,0
+105,Friendly,Amical,0
+106,Fuchs International Tournament,Tournoi amical,0
+107,GaNEFo,Multisports,0
+108,Gold Cup,Continental,1
+109,Gold Cup qualification,Qualifications,1
+110,Great Wall Cup,Tournoi amical,0
+111,Guangzhou International Friendship Tournament,Tournoi amical,0
+112,Gulf Cup,Régional,1
+113,Hungary Heritage Cup,Non-FIFA,0
+114,Indian Ocean Island Games,Multisports,0
+115,Indonesian Independence Cup,Tournoi amical,0
+116,Inter Games,Non-FIFA,0
+117,Inter-Allied Games,Multisports,0
+118,Intercontinental Cup,Tournoi amical,0
+119,International Friendship Championship,Tournoi amical,0
+120,"International Tournament of Peoples, Cultures and Tribes",Non-FIFA,0
+121,Iran International Tournament,Tournoi amical,0
+122,Island Games,Non-FIFA,0
+123,Jakarta Anniversary Tournament,Tournoi amical,0
+124,Joe Robbie Cup,Tournoi amical,0
+125,Jordan International Tournament,Tournoi amical,0
+126,KTFF 50th Anniversary Cup,Non-FIFA,0
+127,King Hassan II Tournament,Tournoi amical,0
+128,King's Cup,Tournoi amical,0
+129,Kirin Challenge Cup,Tournoi amical,0
+130,Kirin Cup,Tournoi amical,0
+131,Korea Cup,Tournoi amical,0
+132,Kuneitra Cup,Tournoi amical,0
+133,LG Cup,Tournoi amical,0
+134,Los Angeles Nations Cup,Tournoi amical,0
+135,Lunar New Year Cup,Tournoi amical,0
+136,MSG Prime Minister's Cup,Régional,0
+137,Mahinda Rajapaksa Cup,Tournoi amical,0
+138,Malta International Tournament,Tournoi amical,0
+139,Mapinduzi Cup,Tournoi amical,0
+140,Maple Cup,Tournoi amical,0
+141,Marianas Cup,Non-FIFA,0
+142,Marlboro Cup,Tournoi amical,0
+143,Matthews Cup,Tournoi amical,0
+144,Mauritius Four Nations Cup,Tournoi amical,0
+145,Mediterranean Cup,Régional,0
+146,Melanesia Cup,Régional,1
+147,Merdeka Tournament,Tournoi amical,0
+148,Merlion Cup,Tournoi amical,0
+149,Miami Cup,Tournoi amical,0
+150,Millennium Cup,Tournoi amical,0
+151,"Morocco, Capital of African Football",Tournoi amical,0
+152,Mukuru 4 Nations,Tournoi amical,0
+153,Mundialito,Tournoi amical,0
+154,Muratti Vase,Non-FIFA,0
+155,NAFC Championship,Continental,1
+156,NAFU Championship,Régional,1
+157,Nations Cup,Tournoi amical,0
+158,Navruz Cup,Tournoi amical,0
+159,Nehru Cup,Tournoi amical,0
+160,Niamh Challenge Cup,Non-FIFA,0
+161,Nile Basin Tournament,Tournoi amical,0
+162,Nordic Championship,Régional,1
+163,OSN Cup,Tournoi amical,0
+164,Oceania Nations Cup,Continental,1
+165,Oceania Nations Cup qualification,Qualifications,1
+166,Olympic Games,Multisports,1
+167,Open International Championship,Tournoi amical,0
+168,Outrigger Challenge Cup,Non-FIFA,0
+169,Pacific Games,Multisports,0
+170,Pacific Mini Games,Multisports,0
+171,Palestine Cup,Régional,1
+172,Palestine International Championship,Tournoi amical,0
+173,Pan American Championship,Continental,1
+174,Peace Cup,Non-FIFA,0
+175,Philippine Peace Cup,Tournoi amical,0
+176,Phillip Seaga Cup,Tournoi amical,0
+177,President's Gold Cup International Tournament,Tournoi amical,0
+178,Prime Minister's Cup,Tournoi amical,0
+179,Quaid-e-Azam International Tournament,Tournoi amical,0
+180,Real Madrid 75th Anniversary Cup,Tournoi amical,0
+181,Rous Cup,Tournoi amical,0
+182,SAFF Cup,Régional,1
+183,SKN Football Festival,Tournoi amical,0
+184,Scania 100 Tournament,Tournoi amical,0
+185,Simba Tournament,Tournoi amical,0
+186,Soccer Ashes,Tournoi amical,0
+187,South Asian Games,Multisports,0
+188,South Asian Super Cup,Régional,0
+189,South Pacific Games,Multisports,0
+190,South Pacific Mini Games,Multisports,0
+191,Southeast Asian Games,Multisports,0
+192,Southeast Asian Peninsular Games,Multisports,0
+193,Superclásico de las Américas,Tournoi amical,0
+194,TIFOCO Tournament,Non-FIFA,0
+195,Taça das Nações,Tournoi amical,0
+196,The Other Final,Non-FIFA,0
+197,Three Nations Cup,Tournoi amical,0
+198,Tournament Burkina Faso,Tournoi amical,0
+199,Tournoi de France,Tournoi amical,0
+200,Trans-Tasman Cup,Tournoi amical,0
+201,Tri Nation Tournament,Tournoi amical,0
+202,Tri-Nation Series,Tournoi amical,0
+203,Tri-Nations Cup,Tournoi amical,0
+204,Tri-Nations Series,Tournoi amical,0
+205,Tynwald Hill Tournament,Non-FIFA,0
+206,U.S.A. Bicentennial Cup Tournament,Tournoi amical,0
+207,UDEAC Cup,Régional,1
+208,UEFA Euro,Continental,1
+209,UEFA Euro qualification,Qualifications,1
+210,UEFA Nations League,Continental,1
+211,UNCAF Cup,Régional,1
+212,UNIFFAC Cup,Régional,1
+213,USA Cup,Tournoi amical,0
+214,Umbro Cup,Tournoi amical,0
+215,United Arab Emirates Friendship Tournament,Tournoi amical,0
+216,Unity Cup,Tournoi amical,0
+217,VFF Cup,Tournoi amical,0
+218,Vietnam Independence Cup,Tournoi amical,0
+219,Viva World Cup,Non-FIFA,0
+220,WAFF Championship,Régional,1
+221,West African Cup,Régional,1
+222,Windward Islands Tournament,Régional,0
+223,World Unity Cup,Non-FIFA,0
+224,Zambian Independence Tournament,Tournoi amical,0
+225,Évence Coppée Trophy,Tournoi amical,0

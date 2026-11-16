@@ -1,0 +1,53 @@
+version: 2
+models:
+  - name: fact_match
+    columns:
+      - name: match_key
+        tests: [unique, not_null]
+      - name: date_key
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_date')
+                field: date_key
+      - name: home_team_key
+        tests:
+          - relationships:
+              arguments:
+                to: ref('dim_team')
+                field: team_key
+      - name: away_team_key
+        tests:
+          - relationships:
+              arguments:
+                to: ref('dim_team')
+                field: team_key
+      - name: tournament_key
+        tests:
+          - relationships:
+              arguments:
+                to: ref('dim_tournament')
+                field: tournament_key
+      - name: venue_key
+        tests:
+          - relationships:
+              arguments:
+                to: ref('dim_venue')
+                field: venue_key
+  - name: dim_date
+    columns:
+      - name: date_key
+        tests: [unique, not_null]
+  - name: dim_team
+    columns:
+      - name: team_key
+        tests: [unique, not_null]
+  - name: dim_tournament
+    columns:
+      - name: tournament_key
+        tests: [unique, not_null]
+  - name: dim_venue
+    columns:
+      - name: venue_key
+        tests: [unique, not_null]
